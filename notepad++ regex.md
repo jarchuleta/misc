@@ -1,4 +1,4 @@
+# Notepad ++ regex
 
-#Replace all spaces
-
+## Replace all spaces
 ^\s*
