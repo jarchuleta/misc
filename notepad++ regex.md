@@ -1,0 +1,4 @@
+
+#Replace all spaces
+
+^\s*
